@@ -1,7 +1,8 @@
 ## Bem-vindo(a) ao perfil de Millena Nunes!
 
  <div>
-   <a href="https://github.com/millenanunes">
+   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  <a href="https://github.com/millenanunes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenanunes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenanunes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -15,7 +16,7 @@
  
 <br>
  
-### Para entrar em contato comigo via e-mail ou até saber mais sobre mim, me segue nas redes sociais abaixo.
+### Para entrar em contato comigo e saber mais sobre mim, me segue nas redes sociais abaixo.
  
 <div> 
   <a href="https://instagram.com/isidromillena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
