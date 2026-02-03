@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=000000&background=00000000&center=true&duration=8000&pause=1000&lines+Oi,+me+chamo+Millena+Nunes!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=000000&background=00000000&center=true&duration=8000&pause=1000&lines=+Oi,+me+chamo+Millena+Nunes!)
 
 :mortar_board:| Educação
 
