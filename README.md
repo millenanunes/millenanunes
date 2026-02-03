@@ -5,7 +5,7 @@ Graduação: UNIFACISA - Sistemas da Informação, Agosto de 2024 - Dezembro de 
 Graduação: UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025. (Em andamento)
 
  <div>
-  <a href="https://github.com/millenanunes">
+  <a href="https://github.com/millenanunes.dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenanunes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
     
@@ -13,7 +13,6 @@ Graduação: UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025
   <img align="center" alt="azuresqldatabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="azuresqldatabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
  
 <br>
