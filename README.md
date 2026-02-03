@@ -4,7 +4,7 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="azuresqldatabase" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="azuresqldatabase" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="azuresqldatabase" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="python" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
