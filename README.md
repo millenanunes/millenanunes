@@ -2,7 +2,7 @@
 
 :mortar_board:| Education
 
-:small_blue_diamond: Student of systems analysis and development, June 2024 - December 2026.
+:small_blue_diamond: Student of systems analysis and development at UNIFACISA, June 2024 - December 2026.
     
 <div style="display: inline_block"><br>
   <img align="center" alt="azuresqldatabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
