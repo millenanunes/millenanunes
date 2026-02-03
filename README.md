@@ -1,7 +1,6 @@
 ## Olá, me chamo Millena Nunes! :raised_hand:
 :mortar_board:| Educação
 
-Graduação: UNIFACISA - Sistemas da Informação, Agosto de 2024 - Dezembro de 2024. (Trancado)  
 Graduação: UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025. (Em andamento)
 
  <div>
