@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=5000&lines=Olá,+me+chamo+Millena+Nunes!+👋)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&lines=Olá,+me+chamo+Millena+Nunes!)
 
 :mortar_board:| Educação
 
