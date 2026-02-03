@@ -1,4 +1,4 @@
-## Olá, me chamo Millena Nunes! :wave
+## Olá, me chamo Millena Nunes!
 
  <div>
   <a href="https://github.com/millenanunes">
