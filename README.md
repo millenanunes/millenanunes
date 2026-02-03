@@ -1,5 +1,10 @@
 ## Olá, me chamo Millena Nunes! :wave:
-
+Formação
+Graduação 1: UNIFACISA - Análise e Desenvolvimento de Sistemas, (Em andamento).
+Graduação 2:
+Graduação 3:
+Post Graduation: FATEA - Specialization in Design and Development of Web Applications, March 2014 - September 2015.
+Post Graduation: FIAP - A.I. For Developers, March 2025 - March 2026.
  <div>
   <a href="https://github.com/millenanunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenanunes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
