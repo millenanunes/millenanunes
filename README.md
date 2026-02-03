@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=000000&background=00000000&width=600&duration=8000&pause=1000&lines=Oi,+me+chamo+Millena+Nunes!)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=000000&background=00000000&width=600&duration=8000&pause=1000&lines=Oi,+me+chamo+Millena+Nunes!)
 
-## :mortar_board:| Educação
+:mortar_board:| Educação
 
 :small_blue_diamond: **Graduação:** UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025. (Em andamento)
     
