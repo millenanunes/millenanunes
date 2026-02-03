@@ -1,4 +1,5 @@
-## Olá, me chamo Millena Nunes! :wave:
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&lines=Olá,+me+chamo+Millena+Nunes!+👋)
+
 :mortar_board:| Educação
 
 :small_blue_diamond: **Graduação:** UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025. (Em andamento)
