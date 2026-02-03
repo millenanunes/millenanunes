@@ -1,8 +1,8 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=000000&background=00000000&width=600&duration=8000&pause=1000&lines=Hello,I'm+Millena+Nunes!)
 
-:mortar_board:| Educação
+:mortar_board:| Education
 
-:small_blue_diamond: **Graduação:** UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025. (Em andamento)
+:small_blue_diamond: Student of systems analysis and development, June 2024 - December 2026.
     
 <div style="display: inline_block"><br>
   <img align="center" alt="azuresqldatabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
