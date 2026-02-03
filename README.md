@@ -14,23 +14,9 @@
  
 ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg" /></a>
-
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank">
-    <img align="center" alt="LinkedIn" height="40" width="40"
-         src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg" />
-  </a>
-  <img align="center" alt="Java" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-
-
-<a href="https://instagram.com/millenanunes-dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-<a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/millenanunes-dev" target="_blank"><img align="center" alt="Instagram" height="40" width="40" src="https://www.svgrepo.com/show/303526/instagram-icon-logo.svg" /></a>
+<a href="https://instagram.com/millenanunes-dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
 <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
   
-Obrigada por visitar o meu perfil! :star:
+## Obrigada por visitar o meu perfil! :star:
 
