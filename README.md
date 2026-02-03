@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
   
-</div>  
+ 
 
 Obrigada por visitar o meu perfil! :star:
 </p>
