@@ -1,4 +1,4 @@
-## Olá, me chamo Millena Nunes! :wave:
+## Olá, me chamo Millena Nunes! :raised_hand:
 👨🏻‍💻| Educação
 
 Graduação: UNIFACISA - Sistemas da Informação, Agosto de 2024 - Dezembro de 2024. (Trancado)  
