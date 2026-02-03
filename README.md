@@ -13,10 +13,7 @@
 <br>
  
 ## Conecte-se comigo:
-<a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank">
-  <img align="center" alt="LinkedIn" height="30" width="40"
-       src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" />
-</a>
+<a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg" /></a>
 
 <a href="https://instagram.com/millenanunes-dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 <a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
