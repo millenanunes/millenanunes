@@ -14,8 +14,8 @@
  
 ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank"><img align="center" alt="LinkedIn" height="50" width="50" src="https://www.svgrepo.com/show/448234/linkedin.svg" /></a>
-<a href="https://instagram.com/millenanunes.dev" target="_blank"><img align="center" alt="Instagram" height="45" width="40" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /></a> 
-<a href="mailto:millenanunes.dev@gmail.com" target="_blank"><img align="center" alt="Gmail" height="65" width="60" src="https://www.svgrepo.com/show/452213/gmail.svg" /></a>
+<a href="https://instagram.com/millenanunes.dev" target="_blank"><img align="center" alt="Instagram" height="50" width="40" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /></a> 
+<a href="mailto:millenanunes.dev@gmail.com" target="_blank"><img align="center" alt="Gmail" height="70" width="60" src="https://www.svgrepo.com/show/452213/gmail.svg" /></a>
   
 ## Obrigada por visitar o meu perfil! :star:
 
