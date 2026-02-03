@@ -1,7 +1,5 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=000000&background=00000000&width=600&duration=8000&pause=1000&lines=Hello,+I'm+Millena+Nunes!)
 
-:mortar_board:| Education
-
 :small_blue_diamond: Student of systems analysis and development at UNIFACISA, June 2024 - December 2026.
     
 <div style="display: inline_block"><br>
