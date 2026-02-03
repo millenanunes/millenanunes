@@ -1,5 +1,5 @@
 ## Olá, me chamo Millena Nunes! :wave:
-Formação
+👨🏻‍💻|Educação
 
 Graduação 1: UNIFACISA - Análise e Desenvolvimento de Sistemas, (Em andamento).
 Graduação 2:
