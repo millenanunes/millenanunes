@@ -1,4 +1,4 @@
-## Olá, me chamo Millena Nunes! :raised_hand:
+## Olá, me chamo Millena Nunes! :wave:
 :mortar_board:| Educação
 
 :small_blue_diamond: **Graduação:** UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025. (Em andamento)
