@@ -12,7 +12,7 @@
  
 <br>
  
-## Conecte-se comigo:
+## Talk to me:
 <a href="https://www.linkedin.com/in/millenanunes-dev" target="_blank"><img align="center" alt="LinkedIn" height="50" width="50" src="https://www.svgrepo.com/show/448234/linkedin.svg" /></a>
 <a href="https://instagram.com/millenanunes.dev" target="_blank"><img align="center" alt="Instagram" height="50" width="40" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /></a> 
 <a href="mailto:millenanunes.dev@gmail.com"><img align="center" alt="Gmail" height="70" width="60" src="https://www.svgrepo.com/show/349378/gmail.svg" /></a>
