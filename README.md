@@ -5,6 +5,9 @@
 :small_blue_diamond: **Graduação:** UNIFACISA - Análise e Desenvolvimento de Sistemas, Janeiro de 2025. (Em andamento)
     
 <div style="display: inline_block"><br>
+    <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <img src="LINK_DO_ICONE_SVG_PNG" alt="LinkedIn" width="30" height="30"/>
+</a>
   <img align="center" alt="azuresqldatabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="azuresqldatabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
