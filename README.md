@@ -3,8 +3,8 @@
 :small_blue_diamond: Student of systems analysis and development at UNIFACISA, June 2024 - December 2026.
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="azuresqldatabase" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="azuresqldatabase" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="azuresqldatabase" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="azuresqldatabase" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
