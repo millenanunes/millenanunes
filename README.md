@@ -48,7 +48,7 @@
 
 | Projeto | Status | Descrição | Tecnologias |
 |---------|--------|-----------|-------------|
-| AgroLab Conecta | Em desenvolvimento | Website institucional voltado à disseminação de conhecimento em agroecologia, integrando ciência, sustentabilidade e inovação tecnológica para fortalecer práticas agrícolas conscientes. | HTML5, CSS3, JavaScript, Bootstrap, API REST |
+| AgroLab Conecta | Em desenvolvimento | Website institucional voltado à disseminação de conhecimento em agroecologia, integrando ciência, sustentabilidade e inovação tecnológica para fortalecer práticas agrícolas conscientes. | HTML5, CSS3, JavaScript, API REST |
 
 
 ---
