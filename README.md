@@ -1,8 +1,7 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=0000FF&background=00000000&width=600&duration=8000&pause=1000&lines=Oi,+eu+me+chamo+Millena+Nunes!)
 
-:small_blue_diamond: Desenvolvedora Full Stack  
-:small_blue_diamond: Estudante de Análise e Desenvolvimento de Sistemas pela UNIFACISA, Junho 2024 - Dezembro 2026.  
-:small_blue_diamond: Em transição para a área de tecnologia.  
+:small_blue_diamond: Desenvolvedora Full Stack Júnior
+:small_blue_diamond: Estudante de Análise e Desenvolvimento de Sistemas pela UNIFACISA, Junho 2024 - Dezembro 2026.
 
 ## Linguagens
 <div style="display: inline_block"><br>
