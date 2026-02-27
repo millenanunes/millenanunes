@@ -8,11 +8,11 @@
 
 ## Tecnologias e ferramentas
 
-:small_blue_diamond: Java com Programação Orientada a Objetos (POO)  
-:small_blue_diamond: Python para backend, automação e web scraping  
-:small_blue_diamond: JavaScript, HTML e CSS para desenvolvimento web  
-:small_blue_diamond: MySQL e SQL básico  
-:small_blue_diamond: Git, GitHub e Visual Studio Code  
+:small_blue_diamond: Java com Programação Orientada a Objetos (POO).   
+:small_blue_diamond: Python para backend, automação e web scraping.  
+:small_blue_diamond: JavaScript, HTML e CSS para desenvolvimento web.  
+:small_blue_diamond: MySQL e SQL básico.  
+:small_blue_diamond: Git, GitHub e Visual Studio Code.  
 
 <div style="display: inline_block"><br>
 <img align="center" alt="azuresqldatabase" height="90" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
