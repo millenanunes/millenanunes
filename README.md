@@ -1,6 +1,6 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=0000FF&background=00000000&width=600&duration=8000&pause=1000&lines=Oi,+eu+me+chamo+Millena+Nunes!)
 
-:small_blue_diamond: Desenvolvedora Full Stack Júnior.  
+:small_blue_diamond: Sou desenvolvedora Full Stack Júnior.  
 :small_blue_diamond: Estudante de Análise e Desenvolvimento de Sistemas pela **UNIFACISA**.  
 :small_blue_diamond: Busco oportunidades em desenvolvimento **Backend** e **Frontend**.
 
@@ -12,7 +12,7 @@
 :small_blue_diamond: Python para backend, automação e web scraping.  
 :small_blue_diamond: JavaScript, HTML e CSS para desenvolvimento web.  
 :small_blue_diamond: MySQL e SQL básico.  
-:small_blue_diamond: Git, GitHub e Visual Studio Code.  
+:small_blue_diamond: Git, GitHub e Intellij.  
 
 <div style="display: inline_block"><br>
 <img align="center" alt="azuresqldatabase" height="90" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
@@ -35,10 +35,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| Sistema de Locadora de Filmes | Cadastra, lista, busca e remove filmes utilizando estrutura de listas | Python, ArrayList |
-| Ouvidoria | Sistema para registrar, listar e encerrar manifestações (reclamações, elogios, sugestões) | Python |
-| Sistema de Biblioteca | Cadastro, listagem e exclusão de livros e revistas | Java, ArrayList, Orientação a Objetos |
-| Gerenciador de Loja | Adiciona, busca e remove produtos de uma loja | Java, ArrayList |
+| BioCode | Página inicial desenvolvida para uma plataforma educacional de Biologia | HTML5, CSS3 e IntelliJ IDEA |
+
 
 📂 Veja todos os meus repositórios públicos [clicando aqui](https://github.com/millenanunes?tab=repositories)
 
