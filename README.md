@@ -35,7 +35,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| BioCode | Página inicial desenvolvida para uma plataforma educacional de Biologia | HTML5, CSS3 e IntelliJ IDEA |
+| bio-homepage | Página inicial desenvolvida para uma plataforma educacional de Biologia | HTML5, CSS3 e IntelliJ IDEA |
 
 
 📂 Veja todos os meus repositórios públicos [clicando aqui](https://github.com/millenanunes?tab=repositories)
