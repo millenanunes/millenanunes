@@ -42,7 +42,7 @@
 
 ---
 
-## Projetos em Andamento
+## Projetos em andamento
 
 | Projeto | Status | Descrição | Tecnologias |
 |---------|--------|-----------|-------------|
@@ -51,7 +51,7 @@
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Aprendendo no momento
 - Estrutura de Dados com Java
 - Lógica de Programação e Algoritmos
 - Fundamentos da Web (JavaScript/HTML/CSS)
