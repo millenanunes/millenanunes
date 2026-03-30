@@ -35,7 +35,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| bio-homepage | Página inicial desenvolvida para uma plataforma educacional de Biologia | HTML5, CSS3 e VS code |
+| bio-homepage [clicking here](https://github.com/millenanunes/bio-homepage) | Página inicial desenvolvida para uma plataforma educacional de Biologia | HTML5, CSS3 e VS code |
 
 
 📂 Veja todos os meus repositórios públicos [clicando aqui](https://github.com/millenanunes?tab=repositories)
